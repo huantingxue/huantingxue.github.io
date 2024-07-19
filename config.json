@@ -1,6 +1,12 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "title":"EndlessCrying",
+    "subTitle":"情绪零碎。",
+    "avatarUrl":"https://s21.ax1x.com/2024/07/19/pkTeXxU.jpg",
+    "singlePage":["about"],
+    "singlePage":["link"],
+    "onePageListNum":9,
+    "showPostSource":0,
+    "needComment":0,
+    "startSite":"07/19/2024",
     "GMEEK_VERSION":"last"
 }
