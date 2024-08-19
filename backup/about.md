@@ -29,6 +29,36 @@ EC堆放文字垃圾的地方，作用相当于日记、记事本和胡言乱语
 
 如果这些文字对你有所启发，那EC会十分，哦不，是十二分的，发自内心的感到高兴。
 
+欢迎使用RSS订阅本站，本站的RSS地址是：
+https://endlesscrying.github.io/rss.xml
+
+# 保持联系
+出于某些原因，本站关闭了评论区。
+如果您在阅读完本站的文字后有任何的感想想与EC讨论，请不要吝啬您的笔墨。EC永远恭候着您的到来～
+您可以通过以下方式联系到我，请在联系时注明来意，如：EC。
+
+> Email
+endlesscrying#yami.eu.org 或 532133#163.com
+（自行替换#为@，请注意检查垃圾邮件）
+
+> Wiremin （端到端加密）
+ [点此添加](https://i.wiremin.com/invite/?g=k83207647928)
+
+> Wechat （请注意您的数据安全）
+Hwadot
+
+另外，由于博主还在上学，所以有时候会来不及回复，请见谅。看到必回复。
+
+# 捐赠
+欢迎投喂～
+
+> Alipay
+Donate#Yami.Eu.Org（自行替换#为@）
+
+> WeChat Pay
+![赞赏码](https://s2.loli.net/2024/08/19/h9wbnxC34j5gsTH.png)
+
+
 
 
 
