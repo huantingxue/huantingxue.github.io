@@ -27,10 +27,14 @@ _未知总比已知多，EC对此深信不疑。_
 # 这里是？
 EC堆放文字垃圾的地方，作用相当于日记、记事本和胡言乱语摘要录。
 
+这里不会有多图预警的出现，侧重于文字。
+
+“永远相信文字的力量。”
+
 如果这些文字对你有所启发，那EC会十分，哦不，是十二分的，发自内心的感到高兴。
 
 欢迎使用RSS订阅本站，本站的RSS地址是：
-https://endlesscrying.github.io/rss.xml
+https://endlesscrying.github.io/rss
 
 # 保持联系
 出于某些原因，本站关闭了评论区。
@@ -42,22 +46,29 @@ endlesscrying#yami.eu.org 或 532133#163.com
 （自行替换#为@，请注意检查垃圾邮件）
 
 > Wiremin （端到端加密）
- [点此添加](https://i.wiremin.com/invite/?g=k83207647928)
+ [点此添加Wiremin](https://i.wiremin.com/invite/?g=k83207647928)
 
 > Wechat （请注意您的数据安全）
 Hwadot
+
+> Bilibili
+[@樗顾](https://space.bilibili.com/9989974)
 
 另外，由于博主还在上学，所以有时候会来不及回复，请见谅。看到必回复。
 
 # 捐赠
 欢迎投喂～
 
-> Alipay
+> 支付宝
 Donate#Yami.Eu.Org（自行替换#为@）
 
-> WeChat Pay
-![赞赏码](https://s2.loli.net/2024/08/19/h9wbnxC34j5gsTH.png)
+> 微信
+![微信赞赏码](https://s2.loli.net/2024/08/19/h9wbnxC34j5gsTH.png)
 
+> 爱发电
+[点此前往爱发电](https://afdian.com/a/endlesscrying)
+***
+2024/08/18～20，初稿，于家中。
 
 
 
