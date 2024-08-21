@@ -8,11 +8,10 @@
     "showPostSource":0,
     "needComment":0,
     "UTC":8,
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "i18n":"CN",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "themeMode":"fix",
-    "dayTheme":"dark",
-    "nightTheme":"dark-blue",
+    "dayTheme":"dark-dimmed",
     "bottomText":"转载请注明出处。",
     "startSite":"07/19/2024",
     "GMEEK_VERSION":"last"
