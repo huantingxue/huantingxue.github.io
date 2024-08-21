@@ -1,7 +1,7 @@
 {
     "title":"EndlessCrying",
     "subTitle":"情绪零碎。",
-    "avatarUrl":"https://endlesscrying.github.io/EndlessCrying.jpg",
+    "avatarUrl":"https://endlesscrying.github.io/avatar.svg",
     "urlMode":"issue",
     "singlePage":["about","link"],
     "onePageListNum":9,
@@ -10,6 +10,9 @@
     "UTC":8,
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "i18n":"CN",
+    "themeMode":"fix",
+    "dayTheme":"dark",
+    "nightTheme":"dark-blue",
     "bottomText":"转载请注明出处。",
     "startSite":"07/19/2024",
     "GMEEK_VERSION":"last"
