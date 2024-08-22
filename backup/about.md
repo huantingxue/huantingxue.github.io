@@ -1,4 +1,5 @@
-注：【联系方式】和【捐赠】在本页面的最下面哦～
+注：【联系方式】和【捐赠】在页面最下面哦～
+***
 # 欢迎光临！
 我是`EndlessCrying`，中文名`无休止的哭泣`。
 你可以叫我`EC`，这是EndlessCrying的缩写形式。
@@ -34,15 +35,15 @@ EC堆放文字垃圾的地方，作用相当于日记、记事本和胡言乱语
 如果这些文字对你有所启发，那EC会十分，哦不，是十二分的，发自内心的感到高兴。
 
 欢迎使用RSS订阅本站，本站的RSS地址是：
-https://endlesscrying.github.io/rss
+https://endlesscrying.github.io/rss.xml
 
 # 保持联系
 出于某些原因，本站关闭了评论区。
 如果您在阅读完本站的文字后有任何的感想想与EC讨论，请不要吝啬您的笔墨。EC永远恭候着您的到来～
-您可以通过以下方式联系到我，请在联系时注明来意，如：EC。
+您可以通过以下方式联系到我，请在联系时注明来意。
 
 > Email
-endlesscrying#yami.eu.org 或 532133#163.com
+ 或 532133#163.com
 （自行替换#为@，请注意检查垃圾邮件）
 
 > Wiremin （端到端加密）
@@ -52,7 +53,7 @@ endlesscrying#yami.eu.org 或 532133#163.com
 Hwadot
 
 > Bilibili
-[@樗顾](https://space.bilibili.com/9989974)
+[Uid:9989974](https://space.bilibili.com/9989974)
 
 另外，由于博主还在上学，所以有时候会来不及回复，请见谅。看到必回复。
 
@@ -61,15 +62,15 @@ Hwadot
 
 > 支付宝
 Donate#Yami.Eu.Org（自行替换#为@）
+`Gmeek-html<img src="https://endlesscrying.github.io/alipay.jpg">`
 
 > 微信
-![微信赞赏码](https://s2.loli.net/2024/08/19/h9wbnxC34j5gsTH.png)
+`Gmeek-html<img src="https://endlesscrying.github.io/wechat-pay.jpg">`
 
 > 爱发电
 [点此前往爱发电](https://afdian.com/a/endlesscrying)
 ***
-2024/08/18～20，初稿，于家中。
-
+最后编辑于2024/08/22，家中。
 
 
 
