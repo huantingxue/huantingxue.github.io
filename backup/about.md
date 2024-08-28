@@ -53,24 +53,23 @@ https://endlesscrying.github.io/rss.xml
 Hwadot
 
 > Bilibili
-[Uid:9989974](https://space.bilibili.com/9989974)
+[UID:1322967060](https://space.bilibili.com/1322967060)
 
 另外，由于博主还在上学，所以有时候会来不及回复，请见谅。看到必回复。
 
 # 捐赠
 欢迎投喂～
-
 > 支付宝
-Donate#Yami.Eu.Org（自行替换#为@）
+donate#yami.eu.org（自行替换#为@）
 `Gmeek-html<img src="https://endlesscrying.github.io/alipay.jpg">`
-
 > 微信
 `Gmeek-html<img src="https://endlesscrying.github.io/wechat-pay.jpg">`
-
 > 爱发电
 [点此前往爱发电](https://afdian.com/a/endlesscrying)
+
 ***
-最后编辑于2024/08/22，家中。
+
+最后编辑于2024/08/28，家中。
 
 
 
