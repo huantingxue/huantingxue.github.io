@@ -73,4 +73,5 @@ donate#yami.eu.org（自行替换#为@）
 
 本页面不定期更新。
 最后编辑于2024/08/29，家中。
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
+<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js
+'></script>"}## -->
