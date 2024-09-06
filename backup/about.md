@@ -26,52 +26,56 @@ _未知总比已知多，EC对此深信不疑。_
 # 这里是？
 EC堆放文字垃圾的地方，作用相当于日记、记事本和胡言乱语摘要录。
 
-这里不会有多图预警的出现，侧重于文字。
+这里侧重于文字，偶有图片嵌入。
 
-**“永远相信文字的力量。”**
+这里的文字只是在讲述它们的故事，并不肩负着传达情绪的使命。
 
 如果这些文字对你有所启发，那EC会十分，哦不，是十二分的，发自内心的感到高兴。
 
 欢迎使用RSS订阅本站，本站的RSS地址是：
 https://endlesscrying.github.io/rss.xml
 
-# 建站历程（部分）
-- 2023/07/20，注册`vemleu.com`，小站命名为Vemleu，使用[xLog](https://xlog.app)作为博客程序。
-- 2024/07/20，原域名掉落，因为某些原因，不再续费。
-- 2024/07/19，使用[Gmeek](https://github.com/Meekdai/Gmeek)作为博客程序，暂时使用Github.io的子域名作为博客域名。
-
 > [!WARNING]
 > 本站所有内容均采用 [CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)国际许可协议，转载请保留原文链接及署名。
+
+# 建站历程（部分）
+- 2023/07/20，注册`vemleu.com`，小站命名Vemleu ，使用[xLog](https://xlog.app)作为博客程序。
+- 2024/07/20，原域名掉落，因为某些原因，不再续费。[旧博客](https://vemleu-2479.xlog.app/)仍可访问。
+- 2024/07/19，使用[Gmeek](https://github.com/Meekdai/Gmeek)作为博客程序，暂时使用Github.io的子域名作为博客域名。
 
 # 保持联系
 出于某些原因，本站关闭了评论区。
 如果您在阅读完本站的文字后有任何的感想想与EC讨论，请不要吝啬您的笔墨。EC永远恭候着您的到来～
-您可以通过以下方式联系到我，请在联系时注明来意。
-> Email
- 或 532133#163.com
-（自行替换#为@，请注意检查垃圾邮件）
-> Wiremin （端到端加密）
- [点此添加Wiremin](https://i.wiremin.com/invite/?g=k83207647928)
-> Wechat （请注意您的数据安全）
-Hwadot
-> Bilibili
+## 您可以通过以下方式联系到我，请在联系时注明来意。
+* Email
+ `enlesscrying[at]163[dot]com`
+* Wechat：
+`Hwadot` （请注意您的数据安全）
+* Bilibili
 [UID:1322967060](https://space.bilibili.com/1322967060)
+* Mastodon 
+[@Yeonhwa@c7.io](https://c7.io/@Yeonhwa)
+## 常去的地方。
+* 大佬论坛 [v7s](https://www.dalao.net/user-819.htm)
+* V2EX [Yeonha](https://v2ex.com/member/Yeonhwa)
+
 
 另外，由于博主还在上学，所以有时候会来不及回复，请见谅。看到必回复。
 
 # 捐赠
 如果您觉得本站的文字对你有所帮助，那么欢迎投喂～
-> 支付宝
+## 支付宝
 donate#yami.eu.org（自行替换#为@）
  [支付宝收款码](https://endlesscrying.github.io/alipay.jpg)
-> 微信
+## 微信
 [微信赞赏码](https://endlesscrying.github.io/wechat-pay.jpg)
-> 爱发电
+## 爱发电
 [点此前往爱发电](https://afdian.com/a/endlesscrying)
 
 ***
 
 本页面不定期更新。
-最后编辑于2024/08/29，家中。
+最后编辑于2024/09/06，家中。
+窗外狂风呼啸，暴雨斜切，台风将至。
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
