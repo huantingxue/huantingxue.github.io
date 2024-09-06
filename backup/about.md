@@ -43,12 +43,14 @@ https://endlesscrying.github.io/rss.xml
 - 2024/07/20，原域名掉落，因为某些原因，不再续费。[旧博客](https://vemleu-2479.xlog.app/)仍可访问。
 - 2024/07/19，使用[Gmeek](https://github.com/Meekdai/Gmeek)作为博客程序，暂时使用Github.io的子域名作为博客域名。
 
-# 保持联系
+# 联系
 出于某些原因，本站关闭了评论区。
 如果您在阅读完本站的文字后有任何的感想想与EC讨论，请不要吝啬您的笔墨。EC永远恭候着您的到来～
-## 您可以通过以下方式联系到我，请在联系时注明来意。
+您可以通过以下方式联系到我，请在联系时注明来意。
+***
+## 保持联系
 * Email
- `enlesscrying[at]163[dot]com`
+ `endlesscrying[at]163[dot]com`
 * Wechat：
 `Hwadot` （请注意您的数据安全）
 * Bilibili
