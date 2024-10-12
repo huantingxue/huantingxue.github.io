@@ -42,6 +42,7 @@ https://endlesscrying.github.io/rss.xml
 - 2023/07/20，注册`vemleu.com`，小站命名Vemleu ，使用[xLog](https://xlog.app)作为博客程序。
 - 2024/07/20，原域名掉落，因为某些原因，不再续费。[旧博客](https://vemleu-2479.xlog.app/)仍可访问。
 - 2024/07/19，使用[Gmeek](https://github.com/Meekdai/Gmeek)作为博客程序，暂时使用Github.io的子域名作为博客域名。
+- 2024/09/27，使用[Gmeek](endlesscrying.github.io)及[BearBlog](https://huangtang.bearbog.dev/)双博客同时保留。
 
 # 联系
 出于某些原因，本站关闭了评论区。
@@ -51,14 +52,12 @@ https://endlesscrying.github.io/rss.xml
 ## 保持联系
 * Email
  `endlesscrying[at]163[dot]com`
-* Wechat：
-`Hwadot` （请注意您的数据安全）
 * Bilibili
 [UID:1322967060](https://space.bilibili.com/1322967060)
 * Mastodon 
 [@Yeonhwa@c7.io](https://c7.io/@Yeonhwa)
 ## 常去的地方。
-* 大佬论坛 [v7s](https://www.dalao.net/user-819.htm)
+* 大佬论坛 [荒棠](https://www.dalao.net/user-819.htm)
 * V2EX [Yeonha](https://v2ex.com/member/Yeonhwa)
 
 
@@ -72,12 +71,12 @@ donate#yami.eu.org（自行替换#为@）
 ## 微信
 [微信赞赏码](https://endlesscrying.github.io/wechat-pay.jpg)
 ## 爱发电
-[点此前往爱发电](https://afdian.com/a/endlesscrying)
+[点此前往爱发电](https://afdian.com/a/chanbaekkailu)
 
 ***
 
 本页面不定期更新。
-最后编辑于2024/09/06，家中。
-窗外狂风呼啸，暴雨斜切，台风将至。
+最后编辑于2024/10/12，家中。
+电视机上播放着无聊的肥皂剧。
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
