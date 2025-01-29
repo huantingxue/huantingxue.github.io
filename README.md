@@ -10,6 +10,6 @@
 笑坡仙、嚼蜡调羹。
 蓼衣烟碎，鹊尾云平。
 剩一痕霜，一瓯月，一宵冰。
-### 🔗 link: https://huantingxue.github.io/
-### ⏰ Last Edited：2025-01-29 22:08:47 
+### link: https://huantingxue.github.io/
+### Last Edited：2025-01-29
 ### Powered by [Gmeek](https://github.com/Meekdai/Gmeek) and ♥️
