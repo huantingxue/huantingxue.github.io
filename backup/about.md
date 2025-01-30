@@ -86,10 +86,10 @@ https://huantingxue.github.io/rss.xml
 二维码？ [支付宝收款码](https://huantingxue.github.io/alipay.jpg)
 
 ## 微信
-二维码？[微信收款码](https://huantingxue.github.io/wechat-pay.jpg)
+二维码？[微信收款码](https://huantingxue.github.io/wechat-pay.png)
 
 ## QQ
-二维码？[QQ支付收款码](https://huantingxue.github.io/qq-pay.jpg)
+二维码？[QQ支付收款码](https://huantingxue.github.io/qq-pay.png)
 
 ## 爱发电
 [点此前往爱发电](https://afdian.com/a/chanbaekkailu)
