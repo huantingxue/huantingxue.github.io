@@ -51,7 +51,7 @@ https://huantingxue.github.io/rss.xml
 - 2024/07/20，原域名掉落，因为某些原因，不再续费。[旧博客](https://vemleu-2479.xlog.app/)仍可访问。
 - 2024/07/19，使用[Gmeek](https://github.com/Meekdai/Gmeek)作为博客程序，暂时使用Github.io的子域名作为博客域名。
 - 2024/09/27， 同时保留Gmeek 及 [BearBlog](https://huangtang.bearbog.dev/) 双博客。
-- 2025/01/29，改名`无休止的哭泣EndlessCrying`为`环听雪HuanTingXue`，博客地址变更为[HuanTingXue.Github.IO](https://huantingxue.github.io/)和[HuanTingXue.Bearblog.Dev](https://huantingxue.bearblog.dev/)
+- 2025/01/29，改名`无休止的哭泣EndlessCrying`为`环听雪HuanTingXue`，博客地址变更为[huantingxue.github.io](https://huantingxue.github.io/)和[huantingxue.bearblog.dev](https://huantingxue.bearblog.dev/)
 
 
 # 联系
@@ -61,13 +61,17 @@ https://huantingxue.github.io/rss.xml
 ***
 ## 保持联系
 * Email
- `endlesscrying@163.com`（邮箱没变，用惯了）
+ `huantingxue@qq.com`
+
 * Bilibili
 [UID:9989974](https://space.bilibili.com/9989974)
+
 * Mastodon 
 [@Yeonhwa@c7.io](https://c7.io/@Yeonhwa)
+
 ## 常去的地方。
 * 大佬论坛 [环听雪](https://www.dalao.net/user-819.htm)
+
 * V2EX [Yeonha](https://v2ex.com/member/Yeonhwa)
 
 
@@ -75,8 +79,17 @@ https://huantingxue.github.io/rss.xml
 
 # 捐赠
 如果您觉得本站的文字对你有所帮助，那么欢迎投喂～
+
 ## 支付宝
-用户名：`FaHuan`
+用户名？ `FaHuan`
+邮箱？ `huantingxue@qq.com`
+二维码？ [支付宝收款码](https://huantingxue.github.io/alipay.jpg)
+
+## 微信
+二维码？[微信收款码](https://huantingxue.github.io/wechat-pay.jpg)
+
+## QQ
+二维码？[QQ支付收款码](https://huantingxue.github.io/qq-pay.jpg)
 
 ## 爱发电
 [点此前往爱发电](https://afdian.com/a/chanbaekkailu)
